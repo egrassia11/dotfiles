@@ -15,5 +15,3 @@ set ignorecase       " Ignore case in search patterns
 set incsearch        " Show partial matches while typing search patterns
 set scrolloff=2      " Keep 2 lines above and below the cursor when scrolling vertically
 set hlsearch         " Highlight search results
-set clipboard=unnamedplus " Use the system clipboard for all yank, delete, change, and put operations
-set undofile         " Enable persistent undo
