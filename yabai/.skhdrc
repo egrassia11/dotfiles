@@ -155,6 +155,9 @@ alt - z : yabai -m space --focus 1
 alt - x : yabai -m space --focus 2
 alt - c : yabai -m space --focus 3
 alt - v : yabai -m space --focus 4
+alt - b : yabai -m space --focus 5
+alt - n : yabai -m space --focus 6
+alt - m : yabai -m space --focus 7
 
 alt + cmd - l : yabai -m space --focus next
 alt + cmd - h : yabai -m space --focus prev
